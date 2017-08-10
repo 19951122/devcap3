@@ -1,0 +1,4161 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iCompass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+L1_OraApps01_17P
+
+ 
+
+ 	
+
+
+Section:
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+11
+
+
+12
+
+  
+
+Time Left :   21 : 40   
+ 
+
+
+
+List View 
+
+  
+
+ 
+    Active     Attempted     Not Attempted  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+  
+
+
+Q1
+? ? 
+
+Which command searches the string in file opened in vi editor?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+/: for forward search and ?: for backward search
+
+ 
+ ? 
+
+
+f: for forward search and F: for backward search
+
+ 
+ ? 
+
+
+s: for forward search and S: for backward search
+
+ 
+ ? 
+
+
+?: for forward search and /: for backward search
+ 
+
+
+      
+  
+
+
+Q2
+? ? 
+
+Which is the right command to create directory structure, Project/Requirements/Client?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+mkdir Project/Requirements/Client
+
+ 
+ ? 
+
+
+mkdir -r Project Project/Requirements Project/Requirements/Client
+
+ 
+ ? 
+
+
+mkdir Project Project/Requirements Requirements/Client
+
+ 
+ ? 
+
+
+mkdir Project Project/Requirements Project/Requirements/Client
+ 
+
+
+      
+  
+
+
+Q3
+? ? 
+
+Which command is used to display the device name of terminal?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+stty
+
+ 
+ ? 
+
+
+logname
+
+ 
+ ? 
+
+
+tty
+
+ 
+ ? 
+
+
+uname
+ 
+
+
+      
+  
+
+
+Q4
+? ? 
+
+What will be output of following command:
+
+ $ echo "The process id is" $$$$
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+The process id is $$
+
+ 
+ ? 
+
+
+The process id is $<pid>$<pid>
+
+ 
+ ? 
+
+
+The process id is <pid><pid>
+
+ 
+ ? 
+
+
+The process id is $$$$
+ 
+
+
+       
+ 
+  
+
+
+Q5
+? ? 
+
+There are 6 phases in Application Implementation Methodology (AIM).Choose the right option from the following list. (Choose Four)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Definition
+
+ 
+ ? 
+
+
+Operation Analysis
+
+ 
+ ? 
+
+
+Solution Design
+
+ 
+ ? 
+
+
+Build
+
+ 
+ ? 
+
+
+Implementation
+ 
+
+
+       
+ 
+  
+
+
+Q6
+? ? 
+
+In Release12 under GL Module, the Set of Books is replaced with ____
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Category Book
+
+ 
+ ? 
+
+
+Ledger
+
+ 
+ ? 
+
+
+Catalog Set
+
+ 
+ ? 
+
+
+GL Analysis Book
+
+ 
+ ? 
+
+
+GL Import Book
+ 
+
+
+       
+ 
+  
+
+
+Q7
+? ? 
+
+What Configuration Management (CM) ?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Used by projects for planning
+
+ 
+ ? 
+
+
+Provides an organized structure for handling the project  documents
+
+ 
+ ? 
+
+
+Provides freeware software solutions
+
+ 
+ ? 
+
+
+All of the above
+ 
+
+
+      
+  
+
+
+Q8
+? ? 
+
+A testing model which checks for validation and verification is ___________.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+System testing
+
+ 
+ ? 
+
+
+Waterfall
+
+ 
+ ? 
+
+
+Prototyping
+
+ 
+ ? 
+
+
+V model
+ 
+
+
+      
+  
+
+
+Q9
+? ? 
+
+Choose the correct options - (Choose any 2)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Alpha testing is done at developer's end
+
+ 
+ ? 
+
+
+Beta testing is done at the client end
+
+ 
+ ? 
+
+
+Alpha and beta testing are both done at client end
+
+ 
+ ? 
+
+
+Alpha testing is done at the client end
+
+ 
+ ? 
+
+
+Beta testing is done at the developer's end
+ 
+
+
+       
+ 
+  
+
+
+Q10
+? ? 
+
+Name the Forms Built-In which is used to Get/Set Canvas property?  (Choose any 2 options)            
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+GET_CANVAS_PROPERTY
+
+ 
+ ? 
+
+
+GET_VIEW_PROPERTY
+
+ 
+ ? 
+
+
+SET_VIEW_PROPERTY
+
+ 
+ ? 
+
+
+SET_CANVAS_PROPERTY
+ 
+
+
+      
+  
+
+
+Q11
+? ? 
+
+What are the different types of operators? 
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Arithmetic
+
+ 
+ ? 
+
+
+Bitwise
+
+ 
+ ? 
+
+
+Relational
+
+ 
+ ? 
+
+
+Logical
+
+ 
+ ? 
+
+
+Null
+ 
+
+
+      
+  
+
+
+Q12
+? ? 
+
+In Java, __________ is/are created on heap.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Objects
+
+ 
+ ? 
+
+
+Local Primitive Variable
+
+ 
+ ? 
+
+
+Both objects and local primitive variable
+
+ 
+ ? 
+
+
+None
+ 
+
+
+      
+  
+
+
+Q13
+? ? 
+
+Which property would you set to control items ability to accept query criteria?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Querable
+
+ 
+ ? 
+
+
+Query Only
+
+ 
+ ? 
+
+
+Query
+
+ 
+ ? 
+
+
+No Query
+
+ 
+ ? 
+
+
+Query Allowed
+ 
+
+
+      
+  
+
+
+Q14
+? ? 
+
+How does a Stacked Canvas display?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+As the Content Canvas of a Window
+
+ 
+ ? 
+
+
+On the top of the Content Canvas of a Window.
+
+ 
+ ? 
+
+
+As a Tabbed page on top of a content canvas.
+
+ 
+ ? 
+
+
+As a toolbar in a Window.
+ 
+
+
+      
+  
+
+
+Q15
+? ? 
+
+You created a LOV based on the query Record Group PRODUCTS. The LOV is attached to the :PROD.DESC text item. The validate from List property is set to No for the :PROD.DESC text item. Which built-in can you call to execute the query associated with the record group?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+SHOW_LOV
+
+ 
+ ? 
+
+
+ADD_GROUP_ROW
+
+ 
+ ? 
+
+
+ADD_GROUP_COLUMN
+
+ 
+ ? 
+
+
+SET_GROUP_SELECTION
+
+ 
+ ? 
+
+
+CREATE_GROUP_FORM_QUERY
+ 
+
+
+      
+  
+
+
+Q16
+? ? 
+
+class Alpha { 
+ int num = 52; 
+ void test() { 
+ num += 10; 
+ System.out.println(num); } 
+  
+ public static void main(String[] args) { 
+ Alpha alpha = new Alpha();
+ alpha.test(); } } 
+
+ What would be the result of above code fragment?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+52
+
+ 
+ ? 
+
+
+10
+
+ 
+ ? 
+
+
+An exception occurs at runtime
+
+ 
+ ? 
+
+
+62
+ 
+
+
+      
+  
+
+
+Q17
+? ? 
+
+What are the different types of variables? 
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Instance Variables
+
+ 
+ ? 
+
+
+Domain Variables
+
+ 
+ ? 
+
+
+Static Variables
+
+ 
+ ? 
+
+
+Local Variables
+ 
+
+
+      
+  
+
+
+Q18
+? ? 
+
+What are the two Interface Objects in Check Box?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+De-Checked & Unchecked
+
+ 
+ ? 
+
+
+Checked & Unchecked
+
+ 
+ ? 
+
+
+Checked & Disabled
+
+ 
+ ? 
+
+
+Disabled & Non-Displayed
+ 
+
+
+      
+  
+
+
+Q19
+? ? 
+
+In the Data Model you created the query:                               SELECT id_no, description, price, quantity, manufacturer_id FROM inventory.Next you click and drag the manufacturer_id column out of and above the default group. You needed to sort the child group by id_number. How could you accomplish this task ?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Add an ORDER BY clause to the Query.
+
+ 
+ ? 
+
+
+In the data model double click the id_number column and alter the break order.
+
+ 
+ ? 
+
+
+In the layout model double click the id_number field and later the print direction.
+
+ 
+ ? 
+
+
+Default the layout, choose a Master/Detail report layout style and select id_number as the break order.
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q20
+? ? 
+
+You are building two forms. Each form has a button and non-base table field. When the button is pressed, a complicated calculation is executed. The calculation is the same for both forms. The calculation code does not query or change the data in the database. When the calculation completes, it returns a single value to the non-base table field. To optimize performance and maintainability, which PL/SQL structure should be used?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+A Trigger in each form.
+
+ 
+ ? 
+
+
+A subprogram in each form.
+
+ 
+ ? 
+
+
+A stored subprogram in the database.
+
+ 
+ ? 
+
+
+A subprogram in a library that is attached to each form.
+ 
+
+
+      
+  
+
+
+Q21
+? ? 
+
+int ch=5;
+ switch(ch){
+  case 0:System.out.println("Zero");
+  case 1:System.out.println("One");
+         break;
+  case 2:System.out.println("Two");
+ break;
+ }
+
+ Referring to the above code snippet. What will be the output?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Zero
+ One
+
+ 
+ ? 
+
+
+One
+ Two
+
+ 
+ ? 
+
+
+Zero
+ One
+ Two
+
+ 
+ ? 
+
+
+No output
+ 
+
+
+      
+  
+
+
+Q22
+? ? 
+
+Which forms built-in subprogram allows the user to switch between 2 different forms and work on them concurrently?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+FIND_FORM
+
+ 
+ ? 
+
+
+CALL_FORM
+
+ 
+ ? 
+
+
+NEW_FORM
+
+ 
+ ? 
+
+
+OPEN_FORM
+ 
+
+
+      
+  
+
+
+Q23
+? ? 
+
+As an alternative to setting the Visible property to No for the ORDERS_WINDOW, which built-in could you use to achieve the same result?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+HIDE_WINDOW
+
+ 
+ ? 
+
+
+CLOSE_WINDOW
+
+ 
+ ? 
+
+
+REPLACE_CONTENT_VIEW
+
+ 
+ ? 
+
+
+GET_WINDOW_PROPERTY
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q24
+? ? 
+
+Which setting change would you allow to make a Child Object to be moved out of a Parent Object ?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Flex Mode On
+
+ 
+ ? 
+
+
+Flex Mode Off
+
+ 
+ ? 
+
+
+Confined Mode On
+
+ 
+ ? 
+
+
+Confined Mode Off
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q25
+? ? 
+
+You want to create a Temporary Table while executing a Procedure in a Form. Which statement is true?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+You cannot create a Table within Forms
+
+ 
+ ? 
+
+
+You must use the FORMS_DDL built-in to create the table
+
+ 
+ ? 
+
+
+You must use the DBMS_DYNAMIC_DDL package to create the Table.
+
+ 
+ ? 
+
+
+You can write the CREATE TABLE statement directly into the trigger.
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q26
+? ? 
+
+When we choose the Matrix Report, which three new groups are defined? (Choose three)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Rows
+
+ 
+ ? 
+
+
+Column
+
+ 
+ ? 
+
+
+Groups
+
+ 
+ ? 
+
+
+Cell
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q27
+? ? 
+
+How many String object references will be created in the following java code?
+
+ class MyClass{
+  public static void main(String [] args){
+   String s1="a";
+   s1="ap";
+   s1="Appl";
+   s1="Apple";
+   System.out.println(s1);}
+ }
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+4
+
+ 
+ ? 
+
+
+3
+
+ 
+ ? 
+
+
+2
+
+ 
+ ? 
+
+
+1
+ 
+
+
+      
+  
+
+
+Q28
+? ? 
+
+package com.capgemini.corejava;
+ public class Test {
+  String title;
+ public Test() {
+   title = "Core";
+    }
+  public static void main(String[] args)
+  {  
+   Test test=new Test();
+   System.out.println(test.title);
+ }
+ }
+
+ What is the output of the above Java code?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Core
+
+ 
+ ? 
+
+
+Core Java
+
+ 
+ ? 
+
+
+Throws NullPointerException
+
+ 
+ ? 
+
+
+The code runs with no output
+ 
+
+
+      
+  
+
+
+Q29
+? ? 
+
+You are developing a Tax Report for the Payroll Application. You created a Before Parameter Form Report Trigger to create three temporary tables to store the text that are needed while the report is executed. Which report trigger would you use to delete these Temporary Tables?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Before Parameter Form
+
+ 
+ ? 
+
+
+After Parameter Form
+
+ 
+ ? 
+
+
+Before Report
+
+ 
+ ? 
+
+
+After Report
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q30
+? ? 
+
+__________  is the interpreter.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+javac
+
+ 
+ ? 
+
+
+javadoc
+
+ 
+ ? 
+
+
+JVM
+
+ 
+ ? 
+
+
+All of the above
+ 
+
+
+      
+  
+
+
+Q31
+? ? 
+
+Why do you want to create a Control Block in a Forms Module?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+To control all items in other blocks that are not base table items.
+
+ 
+ ? 
+
+
+To control relationship between a Master Block and its Detail Block.
+
+ 
+ ? 
+
+
+To control the way additional forms are opened and to track the call stack.
+
+ 
+ ? 
+
+
+To control navigation within the form so that users cannot randomly navigate to any item.
+
+ 
+ ? 
+
+
+To place various control items (such as Buttons) on a Single Block that is not related to a Table in the database. 
+ 
+
+
+      
+  
+
+
+Q32
+? ? 
+
+Which objects property palette would you alter to specify a Default Value for the ID parameter on the Parameter Form?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Report.
+
+ 
+ ? 
+
+
+User Parameter
+
+ 
+ ? 
+
+
+Parameter Form
+
+ 
+ ? 
+
+
+Parameter Field
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q33
+? ? 
+
+Which two triggers fire before data is retrieved by a Query?
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Before Parameter Form
+
+ 
+ ? 
+
+
+After Parameter Form
+
+ 
+ ? 
+
+
+After Report
+
+ 
+ ? 
+
+
+Before Report
+
+ 
+ ? 
+
+
+Between Pages
+ 
+
+
+      
+  
+
+
+Q34
+? ? 
+
+Match the following java concepts:
+
+ a)Component of the JVM  that ensures that byte code does not access private data
+ b)Responsible for keeping classes from different servers separate from each other as well as the local classes
+
+ 1. Security Manager
+ 2. Bytecode Verifier
+ 3. Class Loader
+ 4. JIT compiler
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+a -> 1
+ b -> 2
+
+ 
+ ? 
+
+
+a -> 3
+ b -> 2
+
+ 
+ ? 
+
+
+a -> 2
+ b -> 3
+
+ 
+ ? 
+
+
+a -> 1
+ b -> 4
+ 
+
+
+      
+  
+
+
+Q35
+? ? 
+
+To which object can a value be returned when selected in a LOV?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Record Group
+
+ 
+ ? 
+
+
+View
+
+ 
+ ? 
+
+
+Text Item
+
+ 
+ ? 
+
+
+Control Block
+ 
+
+
+      
+  
+
+
+Q36
+? ? 
+
+Mention the different types of Report Columns.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Placeholder Column, Formula Column, Database Column, Summary Column
+
+ 
+ ? 
+
+
+Placeholder Column, Formula Column, Summary Column
+
+ 
+ ? 
+
+
+Virtual Column, Placeholder Column, Formula Column
+
+ 
+ ? 
+
+
+None of the above.
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+       
+ 
+  
+
+
+Q37
+? ? 
+
+Which of the following  query will list the count of employees working in each department?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+SELECT  DEPARTMENT_ID,  COUNT (*)
+ FROM employees
+ GROUP BY DEPARTMENT_ID;
+
+ 
+ ? 
+
+
+SELECT  DEPARTMENT_ID,  COUNT (*)
+ FROM employees
+
+ 
+ ? 
+
+
+SELECT  DEPARTMENT_ID,   (*)
+ FROM employees
+ GROUP BY DEPARTMENT_ID;
+
+ 
+ ? 
+
+
+SELECT  DEPARTMENT_ID,  (*)
+ FROM employees
+ 
+
+
+      
+  
+
+
+Q38
+? ? 
+
+The following SQL is which type of join:
+
+ SELECT emp.empno, emp.ename, dept.dname
+ FROM employee emp JOIN department dept
+ ON emp.deptno = dept.deptno;
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Equi-join
+
+ 
+ ? 
+
+
+Outer Join
+
+ 
+ ? 
+
+
+Self Join
+
+ 
+ ? 
+
+
+Non Equi Join
+ 
+
+
+      
+  
+
+
+Q39
+? ? 
+
+Assume Product table with below column description exists:
+
+ Product_Name VARCHAR2(20)
+
+ Which of the following statement can be used to declare a variable named as "vc_name" with a datatype similar to Product_Name column datatype in PLSQL block?
+
+
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+vc_name VARCHAR2(20);
+
+ 
+ ? 
+
+
+vc_name Product.Product_Name.ROWTYPE;
+
+ 
+ ? 
+
+
+vc_name Product.Product_Name%TYPE;
+
+ 
+ ? 
+
+
+vc_name Product.Product_Name%ROWTYPE;
+ 
+
+
+      
+  
+
+
+Q40
+? ? 
+
+Select the correct syntax of inserting the records into the customer table by interactively accepting input from the user.  
+ Below is the table structure:
+
+ ID            NUMBER PRIMARY KEY
+ NAME      VARCHAR2(20)
+ AGE         NUMBER
+ ADDRESS VARCHAR2(40)
+ SALARY   NUMBER(8, 2)
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+INSERT INTO CUSTOMER(ID, NAME, AGE, ADDRESS, SALARY)
+ VALUES (13, 'Ravi', 25, 'Delhi', 5000.00 );
+
+ 
+ ? 
+
+
+INSERT INTO CUSTOMER 
+ VALUES (13, 'Ravi', 25, 'Delhi', 5000.00 );
+
+ 
+ ? 
+
+
+INSERT INTO CUSTOMER(&ID, &NAME, &ADDRESS, &SALARY );
+
+ 
+ ? 
+
+
+INSERT INTO CUSTOMER
+ VALUES (&ID, '&NAME', &AGE, '&ADDRESS', &SALARY );
+ 
+
+
+      
+  
+
+
+Q41
+? ? 
+
+Which predefined exception would be appropriate to handle while trying to fetch a row from a table when the table is empty?
+ Assume implicit cursor is in use.
+
+
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+NO_DATA_FOUND
+
+ 
+ ? 
+
+
+INVALID_CURSOR
+
+ 
+ ? 
+
+
+TOO_MANY_ROWS
+
+ 
+ ? 
+
+
+VALUE_ERROR
+ 
+
+
+      
+  
+
+
+Q42
+? ? 
+
+Which of the following statements is true pertaining to Cursors?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Implicit cursors must be created by the database developers
+
+ 
+ ? 
+
+
+Explicit cursors can handle tables with only 6 rows
+
+ 
+ ? 
+
+
+Implicit cursor is named as SQL
+
+ 
+ ? 
+
+
+Explicit cursor does not occupy Oracle's memory space
+ 
+
+
+      
+  
+
+
+Q43
+? ? 
+
+___________ is a compiler directive used to associate an exception name with an Oracle error number
+
+
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+PRAGMA RAISE EXCEPTION
+
+ 
+ ? 
+
+
+RAISE_APPLICATION_ERROR
+
+ 
+ ? 
+
+
+OTHERS EXCEPTION
+
+ 
+ ? 
+
+
+PRAGMA EXCEPTION_INIT
+ 
+
+
+      
+  
+
+
+Q44
+? ? 
+
+Following is the Definition of sequence:
+
+ CREATE SEQUENCE  order_seq
+ INCREMENT BY 1
+ START WITH 1 
+ MAXVALUE 10000 
+ CYCLE ; 
+ What will be the output when we execute following Query for the first time :
+
+ SELECT order_seq.NEXTVAL FROM DUAL;
+
+
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+10001
+
+ 
+ ? 
+
+
+ERROR
+
+ 
+ ? 
+
+
+1
+
+ 
+ ? 
+
+
+10000
+ 
+
+
+      
+  
+
+
+Q45
+? ? 
+
+What would the following subquery imply?
+
+ SELECT MAX(salary)
+ FROM employees
+ WHERE salary NOT IN (SELECT MAX(salary) FROM employees)
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+This would return the highest salary of employee
+
+ 
+ ? 
+
+
+This would return the second highest salary of employee
+
+ 
+ ? 
+
+
+This would return the third highest salary of employee
+
+ 
+ ? 
+
+
+This would return the second highest salary of employee if NOT is excluded from the query
+ 
+
+
+      
+  
+
+
+Q46
+? ? 
+
+Line 1  : CREATE PROCEDURE proc_phone(p_phone NUMBER) AS
+ Line 2 :  BEGIN
+ Line 3 :  p_phone := SUBSTR(p_phone, 1, 3);
+ Line 5 : DBMS_OUTPUT.PUT_LINE(p_phone);
+ Line 6 : END;
+
+ What is the problem with above code?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Procedure will be created successfully
+
+ 
+ ? 
+
+
+Single row functions can not be used in PLSQL statements
+
+ 
+ ? 
+
+
+Compilation error : p_phone must be used as IN OUT parameter if you want to assign some value to it
+
+ 
+ ? 
+
+
+None of the above
+ 
+
+
+      
+  
+
+
+Q47
+? ? 
+
+SELECT emp_no, name, hire_date FROM employees
+  WHERE hire_date < (SELECT hire_date FROM employees
+   WHERE emp_no = '005');
+
+ The above query displays? Note:Employee Name is Mani and Emp No is 005
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+This query will display all employees who joined after Mani (EMP_NO: 005)
+
+ 
+ ? 
+
+
+Error in the query
+
+ 
+ ? 
+
+
+This query will display all employees who joined before Mani (EMP_NO: 005)
+
+ 
+ ? 
+
+
+This query will display all employees who joined on the same day as Mani (EMP_NO: 005)
+ 
+
+
+       
+ 
+  
+
+
+Q48
+? ? 
+
+Which statements are true about Oracle Workflow?       (Choose all that apply)
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+It creates Registration Processes
+
+ 
+ ? 
+
+
+It captures exceptions and takes actions
+
+ 
+ ? 
+
+
+It helps in analysis tasks of a business
+
+ 
+ ? 
+
+
+It provides information about how to diagnose potential problems.
+
+ 
+ ? 
+
+
+It provides the routing information for a specific e-Business process
+ 
+
+
+      
+  
+
+
+Q49
+? ? 
+
+Message Attributes must be associated with ______     (Choose all that apply)
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+A Message
+
+ 
+ ? 
+
+
+A Notification
+
+ 
+ ? 
+
+
+A Response
+
+ 
+ ? 
+
+
+An Activity Node
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+       
+ 
+  
+
+
+Q50
+? ? 
+
+The Top Directory in Oracle Applications is?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+APPL_TOP.
+
+ 
+ ? 
+
+
+BASE_TOP
+
+ 
+ ? 
+
+
+TEMP_TOP
+
+ 
+ ? 
+
+
+INST_TOP
+
+ 
+ ? 
+
+
+COMM_TOP
+ 
+
+
+      
+  
+
+
+Q51
+? ? 
+
+List the two different types of applications which can be accessed from a Personal Homepage in Oracle Applications.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Forms-Based Applications & Server-Based Applications
+
+ 
+ ? 
+
+
+Server-Based Applications & Self-Service Applications
+
+ 
+ ? 
+
+
+Forms-Based Applications & Self-Service Applications
+
+ 
+ ? 
+
+
+Self-Service Applications & Server-Based Applications
+
+ 
+ ? 
+
+
+Self-Service Applications & Service Applications
+ 
+
+
+      
+  
+
+
+Q52
+? ? 
+
+As System Administrator, you are requested to create a new responsibility called “Purchasing Buyer” which is identical to “Purchasing Manager” except that requisitions functionality is given only to Purchasing Manager. You are able to satisfy the requirement using any of the options shown. Identify the option that aligns with best practices.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+By creating a new Responsibility and new Menu
+
+ 
+ ? 
+
+
+By creating a new Responsibility and using the Menu Exclusion feature.
+
+ 
+ ? 
+
+
+By creating a new menu, but using the Responsibility Exclusion feature
+
+ 
+ ? 
+
+
+By not creating a new Responsibility and menu, but using exclusion features for both
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q53
+? ? 
+
+Standard Request Submission (SRS) enables us to do the following -          (Choose all correct options.)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Use a Standard Interface to run concurrent programs and reports.
+
+ 
+ ? 
+
+
+Control Access to different reports and programs.
+
+ 
+ ? 
+
+
+View Report Output Online.
+
+ 
+ ? 
+
+
+View Concurrent Manager details
+
+ 
+ ? 
+
+
+Automatically Run Programs, Reports or Request Sets at specific intervals
+ 
+
+
+      
+  
+
+
+Q54
+? ? 
+
+To create a User Profile Option we need to navigate to ______.                   Choose the right option from the following list.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+System Administrator Responsibility > Profiles > System.
+
+ 
+ ? 
+
+
+System Administrator Responsibility > Profiles > Profiles.
+
+ 
+ ? 
+
+
+Application Developer Responsibility > Profile
+
+ 
+ ? 
+
+
+Inventory Super User Responsibility > Items > Master Items.
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q55
+? ? 
+
+Company ABC added a new responsibility to an existing Oracle e-Business Suite R12 application. The System Administrator sets the MO: Operating Unit profile option at the Application level. The Application Level will override the ____ level.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Site
+
+ 
+ ? 
+
+
+Responsibility
+
+ 
+ ? 
+
+
+User and Responsibility
+
+ 
+ ? 
+
+
+User, Responsibility and Site
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q56
+? ? 
+
+Identify the three elements involved in Submitting a Concurrent Request.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Selecting the Concurrent Request or Request Set, Defining a Submission Schedule, Providing Completion options.
+
+ 
+ ? 
+
+
+Selecting the Concurrent Manager, Selecting the Request Set, Defining a Submission Schedule.
+
+ 
+ ? 
+
+
+Selecting the Request Options, Selecting the Request Set, Selecting the Concurrent Manager.
+
+ 
+ ? 
+
+
+Defining a Submission Schedule, Providing Completion Options, Selecting the Concurrent Manager.
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q57
+? ? 
+
+Select four required attributes when defining a Ledger in Oracle e-Business Suite R12
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Calendar
+
+ 
+ ? 
+
+
+Currency
+
+ 
+ ? 
+
+
+Legal entity
+
+ 
+ ? 
+
+
+Business Group
+
+ 
+ ? 
+
+
+Chart of Accounts
+ 
+
+
+      
+  
+
+
+Q58
+? ? 
+
+From the following list choose the right option for definition to a User Profile.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Set of updatable changes done to Oracle Apps Database.
+
+ 
+ ? 
+
+
+A Set of changeable options that affects the way your application runs.
+
+ 
+ ? 
+
+
+Profiles Options cannot be modified
+
+ 
+ ? 
+
+
+Profile Options cannot be defined by developers.
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q59
+? ? 
+
+From the following list choose the right option which describes an Independent Value Set.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+This Value Set depends on another Value Set.
+
+ 
+ ? 
+
+
+This Value Set can have Values populated from Application Tables
+
+ 
+ ? 
+
+
+This Value Set provides a pre-defined list of values.
+
+ 
+ ? 
+
+
+This Value Set can have translated values in the list of values.
+
+ 
+ ? 
+
+
+N/A
+ 
+
+
+      
+  
+
+
+Q60
+? ? 
+
+From the following list choose the right option for Stakeholders involved in an ERP Project. (Choose three)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Vendors
+
+ 
+ ? 
+
+
+Implementers
+
+ 
+ ? 
+
+
+System Integrator
+
+ 
+ ? 
+
+
+Sales Representatives
+
+ 
+ ? 
+
+
+Marketing Executives
+ 
+
+
+      
+  
+
+
+Q61
+? ? 
+
+What are the different components in Descriptive Flexfield? (Choose Three)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Global Segment
+
+ 
+ ? 
+
+
+Context – In - Sensitive Segment
+
+ 
+ ? 
+
+
+Context Sensitive Segment
+
+ 
+ ? 
+
+
+Database Field
+
+ 
+ ? 
+
+
+Context Field
+ 
+
+
+       
+ 
+  
+
+
+Q62
+? ? 
+
+CUSTOM.pll File is located in the following directory ______.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+APPL_TOP/custom
+
+ 
+ ? 
+
+
+GL_TOP/forms.
+
+ 
+ ? 
+
+
+INST_TOP/scripts
+
+ 
+ ? 
+
+
+AU_TOP/resource/
+
+ 
+ ? 
+
+
+CUSTOM_TOP/bin
+ 
+
+
+      
+  
+
+
+Q63
+? ? 
+
+CUSTOM.pll contains 3 Routines (Procedures).                        Choose the right option from the following list.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+ZOOM_AVAILABLE, STYLE, INSTANCE
+
+ 
+ ? 
+
+
+ZOOM, STATE, INSTANCE.
+
+ 
+ ? 
+
+
+ZOOM_AVAILABLE,STYLE,EVENT
+
+ 
+ ? 
+
+
+EVENT,STYLE,INSTANCE
+
+ 
+ ? 
+
+
+None of the above.
+ 
+
+
+      
+  
+
+
+Q64
+? ? 
+
+Under the Coding Standards there are different types of Procedures. Choose from the following list. (Choose Three)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Item Handlers
+
+ 
+ ? 
+
+
+Block Handlers
+
+ 
+ ? 
+
+
+Event Handlers
+
+ 
+ ? 
+
+
+Table Handlers
+
+ 
+ ? 
+
+
+Record Handlers
+ 
+
+
+      
+  
+
+
+Q65
+? ? 
+
+Access to a Forms Personalization Form is controlled with the help of a Profile Option. Choose from the following list.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+AP: Use Invoice Batch Control
+
+ 
+ ? 
+
+
+MO: Operating Unit
+
+ 
+ ? 
+
+
+MO: Security Profile
+
+ 
+ ? 
+
+
+Java Color Scheme
+
+ 
+ ? 
+
+
+Hide Diagnostics Menu Entry/Utilities: Diagnostics
+ 
+
+
+      
+  
+
+
+Q66
+? ? 
+
+In order to register Custom Tables in Oracle Applications we may have to depend on a Package.Choose the right option from the list.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+AD_DD Package
+
+ 
+ ? 
+
+
+ADD_TABLE Package
+
+ 
+ ? 
+
+
+CREATE_TAB Package
+
+ 
+ ? 
+
+
+CRT_PKG
+
+ 
+ ? 
+
+
+None of the above.
+ 
+
+
+      
+  
+
+
+Q67
+? ? 
+
+AIM stands for _________________________________.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Application Integration Management
+
+ 
+ ? 
+
+
+Application Implementation Methodology
+
+ 
+ ? 
+
+
+Application Implementation Management
+
+ 
+ ? 
+
+
+Apply Implement Manage
+
+ 
+ ? 
+
+
+None of the above
+ 
+
+
+      
+  
+
+
+Q68
+? ? 
+
+What is the mandatory setting done for an Oracle Apps Custom Developed Form and to generate the form? Choose from the following list.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+REPORTS60_PATH
+
+ 
+ ? 
+
+
+FORMS_70_PATH
+
+ 
+ ? 
+
+
+FORMS_PATH/FORMS60_PATH
+
+ 
+ ? 
+
+
+TABLE_PATH
+
+ 
+ ? 
+
+
+DESIGNER_PATH
+ 
+
+
+       
+ 
+  
+
+
+Q69
+? ? 
+
+OUM stands for?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Oracle user module
+
+ 
+ ? 
+
+
+Oracle Unified Methodology
+
+ 
+ ? 
+
+
+Oracle Unison Matrix
+
+ 
+ ? 
+
+
+Official Unified Methodology
+ 
+
+
+      
+  
+
+
+Q70
+? ? 
+
+What is Capgemini's Quality and Service Management Policy?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+To value on time delivery more than quality
+
+ 
+ ? 
+
+
+To ask the client to take care of quality
+
+ 
+ ? 
+
+
+To always meet or exceed client expectations.
+
+ 
+ ? 
+
+
+Hire a third party to take care of quality
+ 
+
+
+       
+ 
+  
+
+
+Q71
+? ? 
+
+What are the three Transaction Classes used in Oracle Receivables. (Choose three)
+
+ 
+ Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list. 
+        
+ 
+ 
+
+ 
+ ? 
+
+
+Invoice
+
+ 
+ ? 
+
+
+Prepayment
+
+ 
+ ? 
+
+
+Interest Invoices
+
+ 
+ ? 
+
+
+Credit Memo
+
+ 
+ ? 
+
+
+Debit Memo
+ 
+
+
+      
+  
+
+
+Q72
+? ? 
+
+The Header Information of a Sales Order entered in Order Management is stored under which Table?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+OE_ORDER_LINES_ALL
+
+ 
+ ? 
+
+
+OE_ORDERS_ALL.
+
+ 
+ ? 
+
+
+OE_ORDER_HEADERS_ALL.
+
+ 
+ ? 
+
+
+OM_ORDERS_LINES.
+
+ 
+ ? 
+
+
+None of the above
+ 
+
+
+       
+ 
+  
+
+
+Q73
+? ? 
+
+Which among the following is the right way of writing pseudocode with naming conventions?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+BEGIN
+ ACCEPT FirstValue, SecondValue
+ Result=FirstValue+SecondValue
+ PRINT Result
+ END
+
+ 
+ ? 
+
+
+BEGIN
+ ACCEPT i1, i2
+ output=i1+i2
+ PRINT output
+ END
+
+ 
+ ? 
+
+
+BEGIN
+ ACCEPT a1, a2
+ a3=a1+a2
+ PRINT a3
+ END
+
+ 
+ ? 
+
+
+BEGIN
+ ACCEPT a, b
+ c=a+b
+ PRINT c
+ END
+ 
+
+
+      
+  
+
+
+Q74
+? ? 
+
+What is Regression Testing?
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Conducted by business owners and users to confirm that the system does, in fact, meet their business requirements. 
+
+ 
+ ? 
+
+
+Demonstrates that two or more units or other integrations work together properly.
+
+ 
+ ? 
+
+
+Code-based & performed primarily by developers to demonstrate that their smallest pieces of code execution works properly
+
+ 
+ ? 
+
+
+The testing of software after a modification has been made to ensure the reliability of each software release
+ 
+
+
+      
+  
+
+
+Q75
+? ? 
+
+Sita designed a program to accept employee details from end user. While fetching details, 
+ she wants to ensure that the data falls within the allowable range and correct type of value is accepted. 
+ Identify which defensive programming technique need to be taken care at this scenario.
+
+
+ Single Choice - Select one correct answer from the options list. 
+         
+ 
+ 
+
+ 
+ ? 
+
+
+Input Validation
+
+ 
+ ? 
+
+
+Error Containment
+
+ 
+ ? 
+
+
+Error Handling
+
+ 
+ ? 
+
+
+By default, user will enter only valid values
+ 
+
+
+         
+
+  
+Unix
+
+
+1
+
+?2
+
+3
+
+4
+ 
+  
+Methodologies and Standards
+
+
+5
+ 
+  
+Intro to R12
+
+
+6
+ 
+  
+Intro to SE
+
+
+7
+
+8
+
+9
+ 
+  
+Intro to Java and D2K
+
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+?20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+?31
+
+?32
+
+33
+
+34
+
+35
+
+36
+ 
+  
+Oracle
+
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+ 
+  
+Workflow
+
+
+48
+
+?49
+ 
+  
+Ora Apps Part I
+
+
+50
+
+51
+
+52
+
+53
+
+?54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+?60
+
+61
+ 
+  
+Ora Apps Part II
+
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+ 
+  
+QPA
+
+
+69
+
+70
+ 
+  
+SCM and Financials
+
+
+71
+
+72
+ 
+  
+PF with Pseudocode
+
+
+73
+
+74
+
+75
+  	
+
+
+
+
+
+58 out of 75 ? Submit Assessment  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      
